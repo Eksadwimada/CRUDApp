@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CRUD App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="data_item">Pilih Prodi</string>
+
+    <string name="login_sub_title">
+        <font color="#FF4848"><b>Masuk</b></font>
+        jika anda sudah punya akun.
+    </string>
+    <string name="regis_sub_title">
+        <font color="#FF4848"><b>Daftar</b></font>
+        untuk memulai aplikasi.
+    </string>
+    <string name="reset_sub_title">
+        <font color="#FF4848"><b>Reset password</b></font>
+        jika anda lupa.
+    </string>
+    <string name="login_havent_account">
+        Anda belum punya akun ?
+        <font color="#FF4848"><b> Daftar akun</b></font>
+    </string>
+    <string name="regis_havent_account">
+        Sudah punya akun ?
+        <font color="#FF4848"><b> Masuk akun</b></font>
+    </string>
+    <string name="reset_havent_account">
+        Kembali ke
+        <font color="#FF4848"><b> Masuk</b></font>
+    </string>
+</resources>
